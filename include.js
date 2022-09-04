@@ -3046,6 +3046,13 @@ let cards = [
     imageLink: './Art/MuhammadA/arrow-animation.png',
     author: 'Muhammad Aqeel',
     githubLink: 'https://github.com/MAqeel2148'
+  },
+  {
+    artName: 'Simple Box Animation',
+    pageLink: './Art/RaoAkif/index.html',
+    imageLink: './Art/RaoAkif/simple-box-animation.gif',
+    author: 'Rao Muhammad Akif Tufail',
+    githubLink: 'https://github.com/RaoAkif'
   }
 ];
 
